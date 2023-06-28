@@ -47,7 +47,7 @@ Day 30 - Fireworks
 [Challenge Day 01 - Layered Social Media Icon](https://github.com/petrixia/30-days-css/tree/day-1/day-1)
 Day 01
 
-![Layered Social Media Icon](https://github.com/petrixia/30-days-css/assets/99930894/98bf022f-892c-4c4f-b55b-24617d9cf94d
+![Layered Social Media Icon](https://github.com/petrixia/30-days-css/assets/99930894/98bf022f-892c-4c4f-b55b-24617d9cf94d)
 
 What I learned:
 - Creating layers using the `<span>` tag.
